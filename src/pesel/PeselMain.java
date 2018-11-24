@@ -2,7 +2,7 @@ package pesel;
 
 import java.util.Arrays;
 
-public class Main {
+public class PeselMain {
 
     public static void main(String[] args) {
 
